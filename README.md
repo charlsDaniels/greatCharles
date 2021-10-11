@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @greatCharles and i'm Analist Programmer
+- I actually work with Symfony PHP and Vue JS
+- I’m interested in Web Development
+- I’m currently learning React Js and Laravel PHP
